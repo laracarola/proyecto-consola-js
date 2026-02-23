@@ -22,19 +22,20 @@ Demostrar el uso de los conceptos fundamentales de JavaScript en una aplicación
 ## Evidencias de funcionamiento
 
 ### 1 Estructura del proyecto en VS Code
-![Estructura](capturas/1-vscode.png)
+![Estructura](capturas/vscode.png)
 
 ### 2 Inicio de ejecución
-![Inicio](capturas/2-inicio.png)
+![Inicio](capturas/inicio.png)
 
 ### 3 Operación matemática 1
-![Operacion1](capturas/3-operacion1.png)
+![Operacion1](capturas/operacion1.png)
 
 ### 4 Operación matemática 2
-![Operacion2](capturas/4-operacion2.png)
+![Operacion2](capturas/operacion2.png)
 
 ### 5 Operación matemática 3
-![Operacion3](capturas/5-operacion3.png)
+![Operacion3](capturas/operacion3.png)
 
 ### 6 Resultado Arreglo Objeto
-![ResultadoArregloObjeto](capturas/5-resultado-arreglo-objeto.png)
+![ResultadoArregloObjeto](capturas/resultado-arreglo-objeto.png)
+
